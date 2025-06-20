@@ -1,0 +1,12 @@
+{
+  "name": "nina-carducci-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio de Nina Carducci - Photographe professionnelle",
+  "main": "index.html",
+  "scripts": {
+    "optimize-images": "node optimize-images.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+} 
